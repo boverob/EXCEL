@@ -1,14 +1,1 @@
-Contiene informazioni sulla flotta di modelli auto, suddivise per Dipartimento e Classe di Equipaggiamento.
-Ha una colonna denominata "Equipment Count", che indica il numero di veicoli
-Contiene calcoli statistici come Somma, Media, Minimo, Massimo e Conteggio del numero di auto.
-Include anche una tabella pivot, con dati riepilogativi per dipartimento.
 
-
-Foglio 2 
-Ogni dipartimento somma il totale e anche per modello auto di ogni dipartimento
-ESEMPIO: tecnology service ha un totale di 16 veicoli e vengono contati per modello 1 CUV, 1 Pick Up, 3 suv e 11 van
-
-
-Foglio 3 
-I dati siano organizzati per modelli di auto e calcolato il totale per ciascun modello, oltre alla distribuzione per dipartimento.
-Modello CUV ha un totale di 15 auto, 9 Permitting service, 5 nel Trasportation e 1 nel Tecnology service
